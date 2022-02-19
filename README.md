@@ -23,9 +23,9 @@
 #### Top Repositories
 
 
-<a href="https://github.com/andyasne?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andyasne&repo=Staketracker&theme=buefy" />
-</a>
+<a href="https://github.com/andyasne/Staketracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andyasne&repo=Staketracker&theme=buefy&count_private=true" />
+</a><br />
 <a href="https://github.com/andyasne?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andyasne&repo=commcare-hq&theme=buefy" />
 </a>
