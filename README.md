@@ -18,7 +18,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyasne&theme=nord&hide_langs_below=1&count_private=true&langs_count=7&include_all_commits=true" />
 </a>
 
- 
+ <br /><br />
 | ------------- | ------------- |
 #### Top Repositories
 
@@ -32,12 +32,4 @@
 
 <br />
 
-
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+ 
