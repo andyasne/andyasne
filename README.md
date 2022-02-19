@@ -15,5 +15,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andyasne&theme=nord&count_private=true&show_icons=true" alt="Andinet's github stats"/>
 </a>
 <a href="https://github.com/andyasne?tab=repositories">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyasne&theme=react&hide_langs_below=1" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyasne&theme=nord&hide_langs_below=1&count_private=true" />
 </a>
