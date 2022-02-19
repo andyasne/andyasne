@@ -12,11 +12,9 @@
 -->
 
 <a href="https://github.com/andyasne?tab=repositories">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=andyasne&theme=nord&count_private=true&show_icons=true&langs_count=7" alt="Andinet's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=andyasne&theme=nord&count_private=true&show_icons=true" alt="Andinet's github stats"/>
 </a>
-<a href="https://github.com/andyasne?tab=repositories">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyasne&theme=nord&hide_langs_below=1&count_private=true&langs_count=7&include_all_commits=true" />
-</a>
+ 
 
  <br />
  
