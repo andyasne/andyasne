@@ -1,0 +1,30 @@
+{
+  "ID": "0",
+  "Message": "",
+  "Global": {
+    "NewConfirmed": 1314912,
+    "TotalConfirmed": 486462282,
+    "NewDeaths": 4480,
+    "TotalDeaths": 6134879,
+    "NewRecovered": 0,
+    "TotalRecovered": 0,
+    "Date": "2022-04-01T13:49:22.566Z"
+  },
+  "Countries": [
+    {
+      "ID": 1,
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": 31,
+      "TotalConfirmed": 177747,
+      "NewDeaths": 3,
+      "TotalDeaths": 7670,
+      "NewRecovered": 0,
+      "TotalRecovered": 0,
+      "Date": "2022-04-01T13:49:22.566Z",
+      "Premium": {}
+    }  
+  ],
+  "Date": "2022-04-01T13:49:22.566Z"
+}
